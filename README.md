@@ -40,7 +40,3 @@ A compact, production-oriented ETL project that extracts GDP data from a public 
 - It is intentionally compact so employers can quickly run and review the pipeline.
 - The notebook includes explanatory cells and outputs for transparency.
 
-## Next steps / Extensions
-- Add unit tests and a Dockerfile for reproducible environments.
-- Push final dataset to a cloud storage bucket (S3, GCS).
-- Add a scheduler (GitHub Actions/time-based) to refresh the dataset periodically.
